@@ -1,6 +1,6 @@
-# Excel-Project-Sales-Analysis
+# Excel Project : Sales Analysis
 
-## Sales Report :
+## A Detailed AtliQ Hardware Company Sales Analysis :
 
 
 - **Project objective:** 
